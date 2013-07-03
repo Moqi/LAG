@@ -1,4 +1,4 @@
-LAG
+[L]ife's [A] [G]litch
 ===
 
-CyberPunk Unity3d Game
+LAG is a cyberpunk game developed in Unity3d
