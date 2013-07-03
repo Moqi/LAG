@@ -1,0 +1,43 @@
+ __    _____ _____    _____ _____ ____  _____ 
+|  |  |  _  |   __|  |_   _|     |    \|     |
+|  |__|     |  |  |    | | |  |  |  |  |  |  |
+|_____|__|__|_____|    |_| |_____|____/|_____|
+
+=======================================================
+
+Instructions:
+
+	Status:
+		[I]mplemented - Feature has been fully implemented
+		[F]inished - Feature is fully developed
+		[B]ugs - Feature has been developed but contains bugs
+		[D]eveloping - Feature is in development
+		[N]ot Started - Feature has not entered development
+
+	Features:
+		Describe feature
+
+	Developer:
+		Name of developer
+
+	Priority:
+		High
+		Medium
+		Low
+		Empty for 'Doesn't matter'
+
+=======================================================
+	___________________________________________________
+	Status|			Feature			|Developer|Priority
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+	   N  |		Describe Feature	|	Dev	  |
+
+=======================================================
