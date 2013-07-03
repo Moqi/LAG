@@ -3,7 +3,7 @@
 |  |__|     |  |  |    | | |  |  |  |  |  |  |
 |_____|__|__|_____|    |_| |_____|____/|_____|
 
-=======================================================
+===================================================================
 
 Instructions:
 
@@ -26,18 +26,11 @@ Instructions:
 		Low
 		Empty for 'Doesn't matter'
 
-=======================================================
-	___________________________________________________
-	Status|			Feature			|Developer|Priority
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
-	   N  |		Describe Feature	|	Dev	  |
+===================================================================
+	___________________________________________________________
+	Status|	            Feature		|Developer|Priority
+	   N  |		Describe Feature	|   Dev	  |
+	   N  |		Describe Feature	|   Dev	  |
+	   N  |		Describe Feature	|   Dev	  |
 
-=======================================================
+===================================================================
